@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/yukiasai/'
   s.summary = 'Table view datasource and delegate library in Swift'
   s.authors = { 'yukiasai' => 'yukiasai@gmail.com' }
-  s.source = { :git => 'https://github.com/yukiasai/Shoyu.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/edc1591/Shoyu.git', :tag => s.version }
 
   s.ios.deployment_target = '8.0'
   
